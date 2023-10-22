@@ -1,6 +1,6 @@
 # Real_time_chat_app
  The application allows real-time messaging. Besides, there is AI - Chat Bot support included to answer questions and message with users.
-![Signup screen]((https://github.com/HarryNguyen2662/Real_time_chat_app/blob/main/image_review/sign_in.png)https://github.com/HarryNguyen2662/Real_time_chat_app/blob/main/image_review/sign_in.png)
+![Sign up screen](https://github.com/HarryNguyen2662/Real_time_chat_app/blob/main/image_review/sign_in.png)
 
 ![Login screen](https://github.com/HarryNguyen2662/Real_time_chat_app/blob/main/image_review/log_in.png)
 
